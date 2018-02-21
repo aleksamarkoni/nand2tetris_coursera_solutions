@@ -21,7 +21,11 @@ NAND gate in the computer is like one living cell in our body. Group of cells cr
 
 We will use NAND gates and connect them in different ways so that as out we get result from the truth table of boolean logic operation that we want to make.
 
-Below, you can see graphic representation of NAND gate and truth table for it.![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nand-gate-en.svg/2000px-Nand-gate-en.svg.png)**NAND gate truth table:**
+Below, you can see graphic representation of NAND gate and truth table for it.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nand-gate-en.svg/2000px-Nand-gate-en.svg.png" width="100">
+
+**NAND gate truth table:**
 
 | **A** | **B** | **OUT** |
 | :---: | :---: | :---: |
